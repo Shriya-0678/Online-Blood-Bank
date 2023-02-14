@@ -68,40 +68,4 @@ In this project one can:
 4. View Other Users Profile
 5. Receive alert messages with a little blue dot on a new message or a new blood donation request
 
-## Installation and Usage
 
-1. Clone the blood bank folder on your preferred location on your local device.
-2. Open the cloned folder in visual studio code.
-3. Open the terminal using ctrl+`.
-4. Go into the frontend directory from the terminal by cd frontend
-5. After getting into the frontend folder, write the command npm install and press enter to download all the required dependancies for the frontend(Might take few minutes).
-6. After installing all the required dependancies, run the command npm start and wait for the developental server to start.
-7. Afterwards go back into the terminal in vs code and click on the + button on the top left of the terminal to open a new terminal.
-8. In the new terminal write cd backend and then write the command npm install and press enter to download all required dependancies for the backend(Might take few minutes).
-9. After installing all the required dependancies, run the command npm start and wait for the logged message "db connected successfully","up and runnng".
-10. Signup with your number and password and start exploring the app.
-11. I have not uploaded the .env file, so the secret key for the json web token and the secret link of the mongodb database in the mongodb atlas are not uploaded.
-12. If any one has any query email me at abidihaider89@gmail.com
-
-### Credits
-
-
-This project is made only because of a couple of youtube channels namely 
-
-
-1. NetNinja (link: https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
-
-
-2. DevEd (link: https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q) 
-
-
-and due to my two of of my awesome instructors
-
-
-1. Sir Muhammad Danish Siddique (github_link: https://github.com/mdanishs) 
-
-
-2. Sir Syed Saad Ahmad (github_link: https://github.com/syedsaadahmed)
-
-### CopyRight
- © Syed Haider Imam Abidi
